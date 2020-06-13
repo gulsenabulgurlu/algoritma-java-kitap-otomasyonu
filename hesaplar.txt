@@ -1,0 +1,3 @@
+hesap1:test
+gul:sena
+gul2:sena2
